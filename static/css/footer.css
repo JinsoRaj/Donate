@@ -21,10 +21,6 @@ footer:hover
     height: 5vh;
 }
 
-.codecell-img
-{
-    height: 10vh;
-}
 
 @keyframes fade
 {
@@ -54,5 +50,9 @@ footer:hover
     footer
     {
         opacity: 0.9;
+    }
+    .social-media-img
+    {
+        height: 3vh;
     }
 }

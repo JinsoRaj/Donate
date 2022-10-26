@@ -50,12 +50,12 @@ li{
     padding: 2%;
     width: 40%;
     border: 1px solid;
-    border-color: #212121;
+    border-color: #403f3f;
     border-radius: 5px;
     font-family: inherit;
     font-size: 18px;
-    background-color: black;
-    color: inherit;
+    background-color: #262626;
+    color: #69f0ae;
     box-shadow: 0 0 10px #212121;
     text-align: center;
 }
@@ -63,7 +63,7 @@ li{
 .button-div a:hover
 {
     background-color: #424242;
-    color: #69f0ae;
+    color: #6ef5b3;
     cursor: pointer;
 }
 
